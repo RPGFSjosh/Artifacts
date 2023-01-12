@@ -1,0 +1,58 @@
+Pure
+- Death - [[Cirril]]
+	- Guy
+	- [[Eschwen]]
+	- Flying Fox
+	- Sailor
+	- 39
+- Zealotry - [[Lady Sunrise]]
+	- Tiktani
+	- Firefly
+	- Gal
+	- Bard
+	- 67
+- Marksman - Kunon
+	- Krex
+	- Crane
+	- Guy
+	- Druid
+	- 29
+- Citadel - [[Abutos Ptumoss|Abutos Ptumoss]]
+	- Hrod
+	- Mera
+	- Guy
+	- Ritualist
+	- 89
+
+Mixed
+- fire/ice - Kol Quy
+	- Gelt
+	- Badger
+	- Guy
+	- Etymologist
+	- 21
+- scoundrel/radiance - Luadha
+	- Savothian
+	- Angler Fish
+	- Gal
+	- Occultist
+	- 26
+- [[Command|Command]]/[[Champion|Champion]] - [[Bercana|Bercana]]
+	- [[Guf]]
+	- Javelina
+	- Guy
+	- Paralegal
+	- 35
+- champion/fire/radiance - [[Prinia|Prinia]]
+	- Core Fire, Step 1 Champion/Radiance
+	- Toldun
+	- Gal
+	- Ranger
+	- 44
+- Ice/Champion/Citadel - Rixom "Mr. Dune"
+	- Toldun
+	- Guy
+	- Schoolteacher
+	- 41
+
+

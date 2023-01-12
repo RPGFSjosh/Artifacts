@@ -1,0 +1,9 @@
+# [[Disposition|Disposition]]
+## Levels
+#### Enemy
+#### Hostile
+#### Unfriendly
+#### Indifferent
+#### Friendly
+#### Helpful
+#### Ally 

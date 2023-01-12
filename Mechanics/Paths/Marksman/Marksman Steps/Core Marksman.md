@@ -1,0 +1,8 @@
+# [[Core Marksman|Marksman Core]]
+![[Range Training|Range Training]]
+![[Run & Gun|Run & Gun]]
+![[Ranged Opportunist|Snap Shot]]
+![[Fire from the Hip|Fire from the Hip]]
+![[Zero In|Zero In]]
+![[Strong Draw|Strong Draw]]
+![[Punch Through|Punch Through]]

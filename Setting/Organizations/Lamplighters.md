@@ -1,0 +1,3 @@
+# Lamplighters
+Secret societies are often the realm of the corrupt and the carnal, but the only one that has weathered the storms of countless oppressive kingdoms is The Lamplighters. Not linked to wealth, power, region, class, or religion, their primary goal is to undermine oppression through less than legal means. At times, they are simply a loose collection of casual spies; at others, they become engines of mass assassination. With each member’s status hidden through complicated and unique rituals of recognition, it is nearly impossible to find out who is secretly one of them. It could be anyone, and this fact alone has plagued the sleep of despots for centuries.
+

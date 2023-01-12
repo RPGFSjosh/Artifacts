@@ -1,0 +1,2 @@
+# Intellect
+Intellect represents a character's reasoning, knowledge, and general smarts. Your Intellect score is added to [[Attack Rolls|Attack Rolls]] with spells, [[Damage Rolls]] with [[Ranged Attacks]], and to your [[Dodge|Dodge]].

@@ -1,0 +1,3 @@
+- Savothian master empire of slavers and powerful sorcerers
+- More technologically advanced than any current faction
+- Established high literacy rate, for their own benefit

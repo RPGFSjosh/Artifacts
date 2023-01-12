@@ -1,0 +1,5 @@
+![[Strength]]
+![[Dexterity]]
+![[Intellect]]
+![[Composure]]
+![[Endurance]]

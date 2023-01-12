@@ -1,0 +1,11 @@
+# Paths
+[[Champion|Champion]]
+[[Citadel|Citadel]]
+[[Command|Command]]
+[[Death|Death]]
+[[Fire|Fire]]
+[[Ice|Ice]]
+[[Marksman|Marksman]]
+[[Radiance|Radiance]]
+[[Scoundrel|Scoundrel]]
+[[Zealotry|Zealotry]]

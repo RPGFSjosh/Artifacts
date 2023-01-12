@@ -1,0 +1,13 @@
+# Side Paths
+- Pugilist
+	- Monks, Brawlers, Grapplers
+- Life
+	- Druids, HOTs
+- Conduit
+	- Redirection, Telekinesis, Anti-magic
+- Mountie
+	- Mounted Combat
+- Beast Master
+	- Rangers, Druid
+- Monkey Grip
+	- 2-handers in 1 hand, oversized in 2 hands

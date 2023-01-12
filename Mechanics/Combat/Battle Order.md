@@ -1,0 +1,1 @@
+The order of combat for the players is determined by their seating order, starting to the [[Game Master]]’s left and proceeding clockwise from there. Enemies have a predetermined Battle Order according to the needs of [[Scenes]] and typically take their turns in-between the players’ turns. When a character or enemy dies, it is removed from Battle Order and its turn is ignored.
