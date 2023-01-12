@@ -14,3 +14,5 @@
 >([[Weapon Tier]] + Level = [[Dice Tier]]) + [[Strength]]
 
 ---
+
+%% This is a test for Github pushing %%
