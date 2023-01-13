@@ -15,4 +15,4 @@
 
 ---
 
-%% cunt cunt cunt cunt cunt fart %%
+%% cunt cunt cunt cun %%
